@@ -1,0 +1,120 @@
+[
+  {
+    "data": {
+      "schemaId": "6C256B1D-121B-41C4-90E5-96D93A9887AC",
+      "paramUrl": "/6C256B1D-121B-41C4-90E5-96D93A9887AC/fa/هارد-اکسترنال",
+      "lid": 1,
+      "schemaVersion": "1.0.0",
+      "usedForId": -1,
+      "properties": [
+        {
+          "propId": 98871,
+          "multi": false,
+          "added": [
+            {
+              "parts": [
+                {
+                  "part": 1,
+                  "values": [{ "value": "هارد-اکسترنال-hd710-pro-2tb-ایدیتا" }]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propId": 98873,
+          "multi": false,
+          "added": [
+            {
+              "parts": [{ "part": 1, "values": [{ "value": "ای‌دیتا Adata" }] }]
+            }
+          ]
+        },
+        {
+          "propId": 98891,
+          "multi": false,
+          "added": [
+            { "parts": [{ "part": 1, "values": [{ "value": "ندارد" }] }] }
+          ]
+        },
+        {
+          "propId": 98892,
+          "multi": false,
+          "added": [
+            {
+              "parts": [
+                { "part": 1, "values": [{ "value": "2.6 * 13.3 * 9.8" }] }
+              ]
+            }
+          ]
+        },
+        {
+          "propId": 98874,
+          "multi": false,
+          "added": [
+            { "parts": [{ "part": 1, "values": [{ "value": 175299 }] }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "schemaId": "6C256B1D-121B-41C4-90E5-96D93A9887AC",
+      "paramUrl": "/6C256B1D-121B-41C4-90E5-96D93A9887AC/fa/هارد-اکسترنال",
+      "lid": 1,
+      "schemaVersion": "1.0.0",
+      "usedForId": -1,
+      "properties": [
+        {
+          "propId": 98871,
+          "multi": false,
+          "added": [
+            {
+              "parts": [
+                {
+                  "part": 1,
+                  "values": [{ "value": "هارد-اکسترنال-hd710-pro-1tb-ای-دیتا" }]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propId": 98873,
+          "multi": false,
+          "added": [
+            {
+              "parts": [{ "part": 1, "values": [{ "value": "ای‌دیتا Adata" }] }]
+            }
+          ]
+        },
+        {
+          "propId": 98891,
+          "multi": false,
+          "added": [
+            { "parts": [{ "part": 1, "values": [{ "value": "ندارد" }] }] }
+          ]
+        },
+        {
+          "propId": 98892,
+          "multi": false,
+          "added": [
+            {
+              "parts": [
+                { "part": 1, "values": [{ "value": "2.1 * 13.3 * 9.8" }] }
+              ]
+            }
+          ]
+        },
+        {
+          "propId": 98874,
+          "multi": false,
+          "added": [
+            { "parts": [{ "part": 1, "values": [{ "value": 175299 }] }] }
+          ]
+        }
+      ]
+    }
+  }
+]

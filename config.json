@@ -1,0 +1,62 @@
+{
+  "data": {
+    "schemaId": "BA56E52B-99DA-4730-9278-7EC23BE08306",
+    "paramUrl": "BA56E52B-99DA-4730-9278-7EC23BE08306/fa/اسکنر",
+    "lid": 1,
+    "schemaVersion": "1.0.0",
+    "usedForId": -1,
+    "properties": [
+      {
+        "propId": 18708,
+        "multi": false,
+        "added": [
+          {
+            "parts": [
+              {
+                "part": 1,
+                "values": [
+                  { "value": "اسکنر-حرفهای-اسناد-imageformula-dr-m160-کانن" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "propId": 18709,
+        "multi": false,
+        "added": [
+          { "parts": [{ "part": 1, "values": [{ "value": "کانن Canon" }] }] }
+        ]
+      },
+      {
+        "propId": 18720,
+        "multi": false,
+        "added": [
+          {
+            "parts": [{ "part": 1, "values": [{ "value": 40 }] }]
+          }
+        ]
+      },
+      {
+        "propId": 18735,
+        "multi": false,
+        "added": [{ "parts": [{ "part": 1, "values": [{ "value": 33008 }] }] }]
+      },
+      {
+        "propId": 18740,
+        "multi": false,
+        "added": [{ "parts": [{ "part": 1, "values": [{ "value": 33037 }] }] }]
+      },
+      {
+        "propId": 18749,
+        "multi": false,
+        "added": [
+          {
+            "parts": [{ "part": 1, "values": [{ "value": "64 * 34.6 * 28" }] }]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2806 @@
+{
+  "setting": { "keepalive": true },
+  "sources": [
+    {
+      "options": {
+        "tableName": "answer.data",
+        "keyFieldName": "",
+        "statusFieldName": "",
+        "mergeType": 0
+      },
+      "data": [
+        {
+          "schemaId": "6665CABE-E5A5-4AFD-A452-9C7BC58AE731",
+          "paramUrl": "/6665CABE-E5A5-4AFD-A452-9C7BC58AE731/fa/\u0645\u0627\u0646\u06cc\u062a\u0648\u0631",
+          "lid": 1,
+          "schemaVersion": "1.0.0",
+          "baseVocab": "https://schema.site/fa/bc/\u0645\u0627\u0646\u06cc\u062a\u0648\u0631",
+          "questions": [
+            {
+              "prpId": 67542,
+              "TypeID": 150,
+              "Ord": 700,
+              "multi": false,
+              "class": "css_150",
+              "Url": "FA/vo/\u0639\u0646\u0648\u0627\u0646",
+              "title": "\u0639\u0646\u0648\u0627\u0646",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_150_1",
+                  "validations": {
+                    "required": true,
+                    "minLength": "2",
+                    "maxLength": "100"
+                  }
+                }
+              ]
+            },
+            {
+              "prpId": 67543,
+              "TypeID": 164,
+              "Ord": 720,
+              "multi": false,
+              "class": "css_164",
+              "Url": "FA/vo/\u0628\u0631\u0646\u062f",
+              "title": "\u0628\u0631\u0646\u062f",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_164_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67544,
+              "TypeID": 163,
+              "Ord": 740,
+              "multi": false,
+              "class": "css_163",
+              "Url": "FA/vo/\u0645\u062f\u0644",
+              "title": "\u0645\u062f\u0644",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_163_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67545,
+              "TypeID": 128,
+              "Ord": 780,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/\u06a9\u0634\u0648\u0631-\u0645\u0648\u0646\u062a\u0627\u0698-\u06a9\u0646\u0646\u062f\u0647",
+              "title": "\u06a9\u0634\u0648\u0631 \u0645\u0648\u0646\u062a\u0627\u0698 \u06a9\u0646\u0646\u062f\u0647",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67546,
+              "TypeID": 140,
+              "Ord": 800,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u06af\u0631\u0648\u0647-\u0631\u0646\u06af\u06cc",
+              "title": "\u06af\u0631\u0648\u0647 \u0631\u0646\u06af\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 135093,
+                      "value": "\u0633\u0641\u06cc\u062f(\u0631\u0646\u06af)"
+                    },
+                    { "id": 135094, "value": "\u0633\u06cc\u0627\u0647" },
+                    { "id": 135095, "value": "\u0642\u0631\u0645\u0632" },
+                    { "id": 135096, "value": "\u0635\u0648\u0631\u062a\u06cc" },
+                    { "id": 135097, "value": "\u0632\u0631\u062f" },
+                    {
+                      "id": 135098,
+                      "value": "\u0646\u0627\u0631\u0646\u062c\u06cc"
+                    },
+                    { "id": 135099, "value": "\u0633\u0628\u0632" },
+                    { "id": 135100, "value": "\u0627\u0628\u06cc" },
+                    { "id": 135101, "value": "\u0628\u0646\u0641\u0634" },
+                    { "id": 135102, "value": "\u0632\u0631\u0634\u06a9\u06cc" },
+                    {
+                      "id": 135103,
+                      "value": "\u0633\u0631\u0645\u0647 \u0627\u06cc"
+                    },
+                    {
+                      "id": 135104,
+                      "value": "\u0642\u0647\u0648\u0647 \u0627\u06cc(\u0631\u0646\u06af)"
+                    },
+                    { "id": 135105, "value": "\u0646\u0642\u0631\u0647" },
+                    { "id": 135106, "value": "\u0637\u0644\u0627\u06cc\u06cc" },
+                    {
+                      "id": 135107,
+                      "value": "\u062e\u0627\u06a9\u0633\u062a\u0631\u06cc(\u06af\u0631\u0648\u0647 \u0631\u0646\u06af\u06cc)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67547,
+              "TypeID": 132,
+              "Ord": 820,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0631\u0646\u06af-\u0642\u0627\u0628",
+              "title": "\u0631\u0646\u06af \u0642\u0627\u0628",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67548,
+              "TypeID": 132,
+              "Ord": 840,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0631\u0646\u06af-\u067e\u0627\u06cc\u0647",
+              "title": "\u0631\u0646\u06af \u067e\u0627\u06cc\u0647",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67549,
+              "TypeID": 137,
+              "Ord": 860,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u0646\u0648\u0639-\u0646\u0645\u0627\u06cc\u0634\u06af\u0631",
+              "title": "\u0646\u0648\u0639 \u0646\u0645\u0627\u06cc\u0634\u06af\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135108, "value": "CRT" },
+                    { "id": 135109, "value": "LCD" },
+                    { "id": 135110, "value": "LED" },
+                    { "id": 135111, "value": "OLED" },
+                    { "id": 135112, "value": "QD-LED" },
+                    {
+                      "id": 135113,
+                      "value": "\u067e\u0644\u0627\u0633\u0645\u0627"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67550,
+              "TypeID": 137,
+              "Ord": 880,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u0641\u0631\u0645-\u0635\u0641\u062d\u0647-\u0646\u0645\u0627\u06cc\u0634",
+              "title": "\u0641\u0631\u0645 \u0635\u0641\u062d\u0647 \u0646\u0645\u0627\u06cc\u0634",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135114, "value": "\u062e\u0645" },
+                    {
+                      "id": 135115,
+                      "value": "\u0641\u0644\u062a(\u0634\u06a9\u0644)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67551,
+              "TypeID": 131,
+              "Ord": 900,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0633\u0627\u06cc\u0632-\u0635\u0641\u062d\u0647-\u0646\u0645\u0627\u06cc\u0634",
+              "title": "\u0633\u0627\u06cc\u0632 \u0635\u0641\u062d\u0647 \u0646\u0645\u0627\u06cc\u0634(in)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67552,
+              "TypeID": 128,
+              "Ord": 920,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/\u062a\u0639\u062f\u0627\u062f-\u0631\u0646\u06af-\u0642\u0627\u0628\u0644-\u0646\u0645\u0627\u06cc\u0634",
+              "title": "\u062a\u0639\u062f\u0627\u062f \u0631\u0646\u06af \u0642\u0627\u0628\u0644 \u0646\u0645\u0627\u06cc\u0634",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67553,
+              "TypeID": 128,
+              "Ord": 940,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/\u0646\u0633\u0628\u062a-\u062a\u0635\u0648\u06cc\u0631",
+              "title": "\u0646\u0633\u0628\u062a \u062a\u0635\u0648\u06cc\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67554,
+              "TypeID": 137,
+              "Ord": 960,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u06a9\u06cc\u0641\u06cc\u062a-\u062a\u0635\u0648\u06cc\u0631",
+              "title": "\u06a9\u06cc\u0641\u06cc\u062a \u062a\u0635\u0648\u06cc\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135116, "value": "SD" },
+                    { "id": 135117, "value": "HD" },
+                    { "id": 135118, "value": "Full HD" },
+                    { "id": 135119, "value": "ultra WQHD" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67555,
+              "TypeID": 140,
+              "Ord": 980,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u062d\u0627\u0644\u062a-\u062a\u0635\u0648\u06cc\u0631",
+              "title": "\u062d\u0627\u0644\u062a \u062a\u0635\u0648\u06cc\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    { "id": 135120, "value": "Standard" },
+                    {
+                      "id": 135121,
+                      "value": "\u0648\u0631\u0632\u0634 \u0647\u0627"
+                    },
+                    { "id": 135122, "value": "Graphics" },
+                    { "id": 135123, "value": "\u0628\u0627\u0632\u06cc" },
+                    { "id": 135124, "value": "Cinema" },
+                    {
+                      "id": 135125,
+                      "value": "\u0633\u0641\u0627\u0631\u0634\u06cc"
+                    },
+                    { "id": 135126, "value": "Vivid" },
+                    { "id": 135127, "value": "Photo-Vivid" },
+                    { "id": 135128, "value": "Photo-Standard" },
+                    { "id": 135129, "value": "Photo-Custom" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67556,
+              "TypeID": 140,
+              "Ord": 1000,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u062d\u0627\u0644\u062a-\u0639\u0631\u06cc\u0636-\u062a\u0635\u0648\u06cc\u0631",
+              "title": "\u062d\u0627\u0644\u062a \u0639\u0631\u06cc\u0636 \u062a\u0635\u0648\u06cc\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    { "id": 135130, "value": "Normal" },
+                    { "id": 135131, "value": "\u062a\u0648 \u067e\u0631" },
+                    { "id": 135132, "value": "Zoom" },
+                    { "id": 135133, "value": "Wide Zoom" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67557,
+              "TypeID": 137,
+              "Ord": 1020,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u062a\u06a9\u0646\u0648\u0644\u0648\u0698\u06cc-\u0646\u0648\u0631-\u067e\u0633-\u0632\u0645\u06cc\u0646\u0647",
+              "title": "\u062a\u06a9\u0646\u0648\u0644\u0648\u0698\u06cc \u0646\u0648\u0631 \u067e\u0633 \u0632\u0645\u06cc\u0646\u0647",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135134, "value": "CCFL" },
+                    { "id": 135135, "value": "LED" },
+                    { "id": 135136, "value": "Quantom dot" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67558,
+              "TypeID": 131,
+              "Ord": 1040,
+              "multi": false,
+              "class": "css_131",
+              "Url": "FA/vo/\u0634\u062f\u062a-\u0631\u0648\u0634\u0646\u0627\u06cc\u06cc-/-\u062f\u0631\u062e\u0634\u0646\u062f\u06af\u06cc-(cd/m\u00b2)",
+              "title": "\u0634\u062f\u062a \u0631\u0648\u0634\u0646\u0627\u06cc\u06cc / \u062f\u0631\u062e\u0634\u0646\u062f\u06af\u06cc (cd/m\u00b2)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67559,
+              "TypeID": 128,
+              "Ord": 1060,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0631\u0632\u0648\u0644\u0648\u0634\u0646-\u0645\u0627\u0646\u06cc\u062a\u0648\u0631",
+              "title": "\u0631\u0632\u0648\u0644\u0648\u0634\u0646 \u0645\u0627\u0646\u06cc\u062a\u0648\u0631(dpi)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67560,
+              "TypeID": 128,
+              "Ord": 1080,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0633\u0627\u06cc\u0632-\u067e\u06cc\u06a9\u0633\u0644\u200c\u0647\u0627",
+              "title": "\u0633\u0627\u06cc\u0632 \u067e\u06cc\u06a9\u0633\u0644\u200c\u0647\u0627(mm)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67561,
+              "TypeID": 128,
+              "Ord": 1100,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0645\u062d\u062f\u0648\u062f\u0647-\u0632\u0645\u0627\u0646-\u067e\u0627\u0633\u062e-\u06af\u0648\u06cc\u06cc-RGB",
+              "title": "\u0645\u062d\u062f\u0648\u062f\u0647 \u0632\u0645\u0627\u0646 \u067e\u0627\u0633\u062e \u06af\u0648\u06cc\u06cc RGB(ms)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67562,
+              "TypeID": 128,
+              "Ord": 1120,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0645\u062d\u062f\u0648\u062f\u0647-\u0632\u0645\u0627\u0646-\u067e\u0627\u0633\u062e\u200c-\u06af\u0648\u06cc\u06cc-GTG",
+              "title": "\u0645\u062d\u062f\u0648\u062f\u0647 \u0632\u0645\u0627\u0646 \u067e\u0627\u0633\u062e\u200c \u06af\u0648\u06cc\u06cc GTG(ms)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67563,
+              "TypeID": 140,
+              "Ord": 1130,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u062d\u0627\u0644\u062a-\u0635\u062f\u0627",
+              "title": "\u062d\u0627\u0644\u062a \u0635\u062f\u0627",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 135137,
+                      "value": "\u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f"
+                    },
+                    {
+                      "id": 135138,
+                      "value": "\u0648\u0631\u0632\u0634 \u0647\u0627"
+                    },
+                    { "id": 135139, "value": "\u0628\u0627\u0632\u06cc" },
+                    { "id": 135140, "value": "\u0633\u06cc\u0646\u0645\u0627" },
+                    { "id": 135141, "value": "\u0645\u0648\u0632\u06cc\u06a9" },
+                    {
+                      "id": 135142,
+                      "value": "\u0645\u062f\u06cc\u0631\u06cc\u062a \u0627\u062e\u0628\u0627\u0631"
+                    },
+                    {
+                      "id": 135143,
+                      "value": "\u0633\u0641\u0627\u0631\u0634\u06cc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67564,
+              "TypeID": 140,
+              "Ord": 1140,
+              "multi": false,
+              "class": "css_140",
+              "Url": "fa/vo/\u0646\u0648\u0639-\u067e\u0646\u0644",
+              "title": "\u0646\u0648\u0639 \u067e\u0646\u0644",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    { "id": 135144, "value": "AH-IPS" },
+                    { "id": 135145, "value": "AMVA" },
+                    { "id": 135146, "value": "H-IPS" },
+                    { "id": 135147, "value": "IPS" },
+                    { "id": 135148, "value": "PLS" },
+                    { "id": 135149, "value": "TN" },
+                    { "id": 135150, "value": "VA" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67565,
+              "TypeID": 140,
+              "Ord": 1160,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u0646\u0648\u0639-\u067e\u0648\u0631\u062a",
+              "title": "\u0646\u0648\u0639 \u067e\u0648\u0631\u062a",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    { "id": 135151, "value": "USB 2.0" },
+                    { "id": 135152, "value": "USB 3.0" },
+                    { "id": 135153, "value": "HDMI" },
+                    { "id": 135154, "value": "DVI" },
+                    { "id": 135155, "value": "DVB" },
+                    {
+                      "id": 135156,
+                      "value": "\u0628\u0627 \u0633\u06cc\u0645 (\u0627\u06cc\u0646\u062a\u0631\u0646\u062a\u06cc)"
+                    },
+                    { "id": 135157, "value": "MHL" },
+                    { "id": 135158, "value": "D-Sub / VGA" },
+                    { "id": 135159, "value": "AV" },
+                    { "id": 135160, "value": "RGB" },
+                    { "id": 135161, "value": "RS232C" },
+                    {
+                      "id": 135162,
+                      "value": "\u06a9\u0627\u0645\u067e\u0648\u0632\u06cc\u062a"
+                    },
+                    {
+                      "id": 135163,
+                      "value": "\u06a9\u0627\u0645\u067e\u0648\u0646\u0646\u062a"
+                    },
+                    { "id": 135164, "value": "\u0647\u062f\u0641\u0648\u0646" },
+                    {
+                      "id": 135165,
+                      "value": "\u0647\u0646\u062f\u0632\u0641\u0631\u06cc"
+                    },
+                    {
+                      "id": 135166,
+                      "value": "\u06a9\u0627\u0631\u062a\u06cc(\u062a\u062c\u0647\u06cc\u0632\u0627\u062a \u0627\u0645\u0646\u06cc\u062a\u06cc )"
+                    },
+                    { "id": 135167, "value": "TV-out" },
+                    { "id": 135168, "value": "Serial" },
+                    { "id": 135169, "value": "RF" },
+                    {
+                      "id": 135170,
+                      "value": "\u0648\u0631\u0648\u062f\u06cc \u0635\u062f\u0627"
+                    },
+                    {
+                      "id": 135171,
+                      "value": "\u062e\u0631\u0648\u062c\u06cc \u0635\u062f\u0627"
+                    },
+                    {
+                      "id": 135172,
+                      "value": "\u0648\u0631\u0648\u062f\u06cc Video"
+                    },
+                    {
+                      "id": 135173,
+                      "value": "\u062e\u0631\u0648\u062c\u06cc \u062a\u0635\u0648\u06cc\u0631"
+                    },
+                    { "id": 135174, "value": "\u0622\u0646\u062a\u0646" },
+                    {
+                      "id": 135175,
+                      "value": "\u0648\u0631\u0648\u062f\u06cc PC"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67566,
+              "TypeID": 140,
+              "Ord": 1180,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u0646\u0648\u0639-\u0627\u062a\u0635\u0627\u0644",
+              "title": "\u0646\u0648\u0639 \u0627\u062a\u0635\u0627\u0644",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 135176,
+                      "value": "\u06a9\u0627\u0628\u0644\u06cc(\u0627\u0628\u0632\u0627\u0631)"
+                    },
+                    {
+                      "id": 135177,
+                      "value": "\u0628\u06cc \u0633\u06cc\u0645(\u0627\u062a\u0635\u0627\u0644)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67567,
+              "TypeID": 140,
+              "Ord": 1200,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u0645\u0646\u0628\u0639-\u062a\u063a\u0630\u06cc\u0647",
+              "title": "\u0645\u0646\u0628\u0639 \u062a\u063a\u0630\u06cc\u0647",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 135178,
+                      "value": "\u0628\u0631\u0642(\u067e\u0648\u0631\u062a)"
+                    },
+                    { "id": 135179, "value": "\u0628\u0627\u062a\u0631\u06cc" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67568,
+              "TypeID": 130,
+              "Ord": 1220,
+              "multi": false,
+              "class": "css_130",
+              "Url": "FA/vo/\u062a\u0639\u062f\u0627\u062f-\u067e\u0648\u0631\u062a",
+              "title": "\u062a\u0639\u062f\u0627\u062f \u067e\u0648\u0631\u062a",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_130_1",
+                  "validations": { "dataType": "int" }
+                }
+              ]
+            },
+            {
+              "prpId": 67569,
+              "TypeID": 128,
+              "Ord": 1240,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0646\u0648\u0639-\u067e\u0648\u0631\u062a-DVI",
+              "title": "\u0646\u0648\u0639 \u067e\u0648\u0631\u062a DVI",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67570,
+              "TypeID": 132,
+              "Ord": 1260,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u062c\u0646\u0633-\u0628\u062f\u0646\u0647",
+              "title": "\u062c\u0646\u0633 \u0628\u062f\u0646\u0647",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67571,
+              "TypeID": 130,
+              "Ord": 1280,
+              "multi": false,
+              "class": "css_130",
+              "Url": "FA/vo/\u062a\u0639\u062f\u0627\u062f-\u0632\u0628\u0627\u0646-\u0647\u0627\u06cc-\u0645\u0646\u0648",
+              "title": "\u062a\u0639\u062f\u0627\u062f \u0632\u0628\u0627\u0646 \u0647\u0627\u06cc \u0645\u0646\u0648",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_130_1",
+                  "validations": { "dataType": "int" }
+                }
+              ]
+            },
+            {
+              "prpId": 67572,
+              "TypeID": 132,
+              "Ord": 1300,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0632\u0628\u0627\u0646-\u0647\u0627\u06cc-\u0645\u0646\u0648",
+              "title": "\u0632\u0628\u0627\u0646 \u0647\u0627\u06cc \u0645\u0646\u0648",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67573,
+              "TypeID": 128,
+              "Ord": 1320,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0631\u0632\u0648\u0644\u0648\u0634\u0646-\u0648\u0628-\u06a9\u0645",
+              "title": "\u0631\u0632\u0648\u0644\u0648\u0634\u0646 \u0648\u0628 \u06a9\u0645(dpi)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67574,
+              "TypeID": 132,
+              "Ord": 1340,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u062a\u0648\u0636\u06cc\u062d\u0627\u062a-\u0648\u0628-\u06a9\u0645",
+              "title": "\u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0648\u0628 \u06a9\u0645",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67575,
+              "TypeID": 132,
+              "Ord": 1360,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u062a\u0648\u0636\u06cc\u062d\u0627\u062a-wifi",
+              "title": "\u062a\u0648\u0636\u06cc\u062d\u0627\u062a wifi",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67576,
+              "TypeID": 131,
+              "Ord": 1380,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0639\u0645\u0642-\u0631\u0646\u06af",
+              "title": "\u0639\u0645\u0642 \u0631\u0646\u06af(bit)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67577,
+              "TypeID": 131,
+              "Ord": 1400,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0632\u0627\u0648\u06cc\u0647-\u062f\u06cc\u062f-\u0627\u0641\u0642\u06cc",
+              "title": "\u0632\u0627\u0648\u06cc\u0647 \u062f\u06cc\u062f \u0627\u0641\u0642\u06cc(\u00b0)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67578,
+              "TypeID": 131,
+              "Ord": 1420,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0632\u0627\u0648\u06cc\u0647-\u062f\u06cc\u062f-\u0639\u0645\u0648\u062f\u06cc",
+              "title": "\u0632\u0627\u0648\u06cc\u0647 \u062f\u06cc\u062f \u0639\u0645\u0648\u062f\u06cc(\u00b0)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67579,
+              "TypeID": 128,
+              "Ord": 1440,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0645\u0642\u062f\u0627\u0631-\u0686\u0631\u062e\u0634-\u0639\u0645\u0648\u062f\u06cc",
+              "title": "\u0645\u0642\u062f\u0627\u0631 \u0686\u0631\u062e\u0634 \u0639\u0645\u0648\u062f\u06cc(\u00b0)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67580,
+              "TypeID": 128,
+              "Ord": 1460,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0686\u0631\u062e\u0634-\u062d\u0648\u0644-\u0645\u062d\u0648\u0631-\u0639\u0645\u0648\u062f\u06cc",
+              "title": "\u0686\u0631\u062e\u0634 \u062d\u0648\u0644 \u0645\u062d\u0648\u0631 \u0639\u0645\u0648\u062f\u06cc(\u00b0)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67581,
+              "TypeID": 128,
+              "Ord": 1480,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/(\u062f\u0631\u062c\u0647)-Pivot",
+              "title": "\u0645\u06cc\u0632\u0627\u0646 \u0641\u0631\u0648\u0631\u0641\u062a\u06af\u06cc(\u062f\u0631\u062c\u0647 Pivot)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67582,
+              "TypeID": 251,
+              "Ord": 1500,
+              "multi": true,
+              "class": "css_251",
+              "Url": "FA/vo/\u0633\u0627\u0632\u06af\u0627\u0631-\u0628\u0627-\u0633\u06cc\u0633\u062a\u0645-\u0639\u0627\u0645\u0644-\u0647\u0627\u06cc",
+              "title": "\u0633\u0627\u0632\u06af\u0627\u0631 \u0628\u0627 \u0633\u06cc\u0633\u062a\u0645 \u0639\u0627\u0645\u0644 \u0647\u0627\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_251_1",
+                  "validations": { "maxLength": "4000" },
+                  "caption": "\u0648\u0631\u0698\u0646"
+                },
+                {
+                  "part": 2,
+                  "viewType": "select",
+                  "cssClass": "css_251_2",
+                  "validations": { "dataType": "text" },
+                  "caption": "\u0646\u0648\u0639 \u0633\u06cc\u0633\u062a\u0645 \u0639\u0627\u0645\u0644",
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    {
+                      "id": 135180,
+                      "value": "\u0648\u06cc\u0646\u062f\u0648\u0632"
+                    },
+                    { "id": 135181, "value": "Palm" },
+                    {
+                      "id": 135182,
+                      "value": "\u0644\u06cc\u0646\u0648\u06a9\u0633"
+                    },
+                    {
+                      "id": 135183,
+                      "value": "\u06cc\u0648\u0646\u06cc\u06a9\u0633"
+                    },
+                    { "id": 135184, "value": "\u0645\u06a9" },
+                    { "id": 135185, "value": "\u0648\u06cc\u0644\u0632" },
+                    { "id": 135186, "value": "DOS" },
+                    {
+                      "id": 135187,
+                      "value": "\u0628\u06cc \u0627\u0633 \u062f\u06cc"
+                    },
+                    {
+                      "id": 135188,
+                      "value": "\u0633\u0648\u0644\u0627\u0631\u06cc\u0633"
+                    },
+                    {
+                      "id": 135189,
+                      "value": "\u0627\u0646\u062f\u0631\u0648\u06cc\u062f"
+                    },
+                    {
+                      "id": 135190,
+                      "value": "\u0622\u06cc \u0627\u0648 \u0627\u0633"
+                    },
+                    {
+                      "id": 135191,
+                      "value": "\u0633\u06cc\u0645\u0628\u06cc\u0646"
+                    },
+                    { "id": 135192, "value": "UIQ" },
+                    { "id": 135193, "value": "Bada" },
+                    {
+                      "id": 135194,
+                      "value": "\u0628\u0644\u06a9 \u0628\u0631\u06cc"
+                    },
+                    { "id": 135195, "value": "\u0645\u06cc \u06af\u0648" },
+                    { "id": 135196, "value": "Palm" },
+                    { "id": 135197, "value": "\u062a\u0627\u06cc\u0632\u0646" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67583,
+              "TypeID": 132,
+              "Ord": 1520,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0633\u0627\u0632\u06af\u0627\u0631-\u0628\u0627-\u0646\u0631\u0645-\u0627\u0641\u0632\u0627\u0631\u0647\u0627\u06cc",
+              "title": "\u0633\u0627\u0632\u06af\u0627\u0631 \u0628\u0627 \u0646\u0631\u0645 \u0627\u0641\u0632\u0627\u0631\u0647\u0627\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67584,
+              "TypeID": 140,
+              "Ord": 1540,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u0645\u0642\u0627\u0648\u0645-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631",
+              "title": "\u0645\u0642\u0627\u0648\u0645 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 135198,
+                      "value": "\u0622\u0628 (\u0646\u0648\u0634\u06cc\u062f\u0646\u06cc)"
+                    },
+                    {
+                      "id": 135199,
+                      "value": "\u0631\u0637\u0648\u0628\u062a "
+                    },
+                    {
+                      "id": 135200,
+                      "value": "\u0631\u0627\u062a \u0645\u0639\u0644\u0642 \u0647\u0648\u0627"
+                    },
+                    { "id": 135201, "value": "\u0636\u0631\u0628\u0647" },
+                    {
+                      "id": 135202,
+                      "value": "\u062e\u0631\u0627\u0634\u06cc\u062f\u0647 \u0634\u062f\u0646"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67585,
+              "TypeID": 130,
+              "Ord": 1560,
+              "multi": false,
+              "class": "css_130",
+              "Url": "FA/vo/\u062a\u0639\u062f\u0627\u062f-\u06a9\u0644\u06cc\u062f\u0647\u0627",
+              "title": "\u062a\u0639\u062f\u0627\u062f \u06a9\u0644\u06cc\u062f\u0647\u0627",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_130_1",
+                  "validations": { "dataType": "int" }
+                }
+              ]
+            },
+            {
+              "prpId": 67586,
+              "TypeID": 130,
+              "Ord": 1580,
+              "multi": false,
+              "class": "css_130",
+              "Url": "FA/vo/\u062a\u0639\u062f\u0627\u062f-\u06a9\u0644\u06cc\u062f\u0647\u0627\u06cc-\u0645\u06cc\u0627\u0646\u0628\u0631",
+              "title": "\u062a\u0639\u062f\u0627\u062f \u06a9\u0644\u06cc\u062f\u0647\u0627\u06cc \u0645\u06cc\u0627\u0646\u0628\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_130_1",
+                  "validations": { "dataType": "int" }
+                }
+              ]
+            },
+            {
+              "prpId": 67587,
+              "TypeID": 132,
+              "Ord": 1600,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u06a9\u0644\u06cc\u062f\u0647\u0627\u06cc-\u0645\u062f\u06cc\u0631\u06cc\u062a\u06cc",
+              "title": "\u06a9\u0644\u06cc\u062f\u0647\u0627\u06cc \u0645\u062f\u06cc\u0631\u06cc\u062a\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67588,
+              "TypeID": 137,
+              "Ord": 1620,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u0642\u0627\u0628\u0644\u06cc\u062a-\u0644\u0645\u0633\u06cc",
+              "title": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0644\u0645\u0633\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135203, "value": "\u0628\u0644\u0647" },
+                    { "id": 135204, "value": "\u062e\u06cc\u0631" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67589,
+              "TypeID": 137,
+              "Ord": 1640,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u0631\u0627\u062f\u06cc\u0648",
+              "title": "\u0631\u0627\u062f\u06cc\u0648",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135205, "value": "\u0628\u0644\u0647" },
+                    { "id": 135206, "value": "\u062e\u06cc\u0631" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67590,
+              "TypeID": 137,
+              "Ord": 1660,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u0633\u0627\u0628-\u0648\u0648\u0641\u0631",
+              "title": "\u0633\u0627\u0628 \u0648\u0648\u0641\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135207, "value": "\u0628\u0644\u0647" },
+                    { "id": 135208, "value": "\u062e\u06cc\u0631" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67591,
+              "TypeID": 131,
+              "Ord": 1680,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u062a\u0648\u0627\u0646-\u0633\u0627\u0628-\u0648\u0648\u0641\u0631",
+              "title": "\u062a\u0648\u0627\u0646 \u0633\u0627\u0628 \u0648\u0648\u0641\u0631(W)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67592,
+              "TypeID": 137,
+              "Ord": 1700,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u062d\u0627\u0641\u0638\u0647-\u062f\u0627\u062e\u0644\u06cc",
+              "title": "\u062d\u0627\u0641\u0638\u0647 \u062f\u0627\u062e\u0644\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135209, "value": "\u0628\u0644\u0647" },
+                    { "id": 135210, "value": "\u062e\u06cc\u0631" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67593,
+              "TypeID": 131,
+              "Ord": 1720,
+              "multi": false,
+              "class": "css_131",
+              "Url": "FA/vo/\u0638\u0631\u0641\u06cc\u062a-\u062d\u0627\u0641\u0638\u0647-\u062f\u0627\u062e\u0644\u06cc",
+              "title": "\u0638\u0631\u0641\u06cc\u062a \u062d\u0627\u0641\u0638\u0647 \u062f\u0627\u062e\u0644\u06cc(GB)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67594,
+              "TypeID": 132,
+              "Ord": 1740,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0642\u0627\u0628\u0644\u06cc\u062a-\u062e\u0648\u0627\u0646\u062f\u0646-\u06a9\u0627\u0631\u062a\u200c\u0647\u0627\u06cc",
+              "title": "\u0642\u0627\u0628\u0644\u06cc\u062a \u062e\u0648\u0627\u0646\u062f\u0646 \u06a9\u0627\u0631\u062a\u200c\u0647\u0627\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67595,
+              "TypeID": 137,
+              "Ord": 1760,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u0627\u0633\u067e\u06cc\u06a9\u0631",
+              "title": "\u0627\u0633\u067e\u06cc\u06a9\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135211, "value": "\u0628\u0644\u0647" },
+                    { "id": 135212, "value": "\u062e\u06cc\u0631" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67596,
+              "TypeID": 130,
+              "Ord": 1780,
+              "multi": false,
+              "class": "css_130",
+              "Url": "FA/vo/\u062a\u0639\u062f\u0627\u062f-\u0628\u0644\u0646\u062f\u06af\u0648",
+              "title": "\u062a\u0639\u062f\u0627\u062f \u0628\u0644\u0646\u062f\u06af\u0648",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_130_1",
+                  "validations": { "dataType": "int" }
+                }
+              ]
+            },
+            {
+              "prpId": 67597,
+              "TypeID": 132,
+              "Ord": 1800,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u062a\u0648\u0636\u06cc\u062d\u0627\u062a-\u0628\u0644\u0646\u062f\u06af\u0648-/-\u0627\u0633\u067e\u06cc\u06a9\u0631",
+              "title": "\u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0628\u0644\u0646\u062f\u06af\u0648 / \u0627\u0633\u067e\u06cc\u06a9\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67598,
+              "TypeID": 131,
+              "Ord": 1820,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u062a\u0648\u0627\u0646-\u0628\u0644\u0646\u062f\u06af\u0648-/-\u0627\u0633\u067e\u06cc\u06a9\u0631",
+              "title": "\u062a\u0648\u0627\u0646 \u0628\u0644\u0646\u062f\u06af\u0648 / \u0627\u0633\u067e\u06cc\u06a9\u0631(W)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67599,
+              "TypeID": 131,
+              "Ord": 1840,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u062a\u0648\u0627\u0646-\u062e\u0631\u0648\u062c\u06cc-\u06a9\u0644\u06cc-\u0635\u062f\u0627",
+              "title": "\u062a\u0648\u0627\u0646 \u062e\u0631\u0648\u062c\u06cc \u06a9\u0644\u06cc \u0635\u062f\u0627(W)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67600,
+              "TypeID": 137,
+              "Ord": 1860,
+              "multi": false,
+              "class": "css_137",
+              "Url": "fa/vo/\u0646\u0648\u0639-\u0633\u06cc\u06af\u0646\u0627\u0644-\u0648\u06cc\u062f\u0626\u0648\u06cc\u06cc",
+              "title": "\u0646\u0648\u0639 \u0633\u06cc\u06af\u0646\u0627\u0644 \u0648\u06cc\u062f\u0626\u0648\u06cc\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135213, "value": "analogue" },
+                    {
+                      "id": 135214,
+                      "value": "\u062f\u06cc\u062c\u06cc\u062a\u0627\u0644"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67601,
+              "TypeID": 140,
+              "Ord": 1880,
+              "multi": false,
+              "class": "css_140",
+              "Url": "fa/vo/\u0646\u0648\u0639-\u0627\u062a\u0635\u0627\u0644-\u0628\u06cc-\u0633\u06cc\u0645",
+              "title": "\u0646\u0648\u0639 \u0627\u062a\u0635\u0627\u0644 \u0628\u06cc \u0633\u06cc\u0645",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 135215,
+                      "value": "\u0628\u0644\u0648\u062a\u0648\u062b"
+                    },
+                    {
+                      "id": 135216,
+                      "value": "\u0645\u0627\u062f\u0648\u0646 \u0642\u0631\u0645\u0632(\u06a9\u0627\u0631\u0627\u06cc\u06cc )"
+                    },
+                    {
+                      "id": 135217,
+                      "value": "\u0648\u0627\u06cc-\u0641\u0627\u06cc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67602,
+              "TypeID": 132,
+              "Ord": 1900,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0641\u0631\u0645\u062a\u200c\u0647\u0627\u06cc-\u0635\u0648\u062a\u06cc-\u0642\u0627\u0628\u0644-\u0627\u062c\u0631\u0627",
+              "title": "\u0641\u0631\u0645\u062a\u200c\u0647\u0627\u06cc \u0635\u0648\u062a\u06cc \u0642\u0627\u0628\u0644 \u0627\u062c\u0631\u0627",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67603,
+              "TypeID": 132,
+              "Ord": 1920,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0641\u0631\u0645\u062a\u200c\u0647\u0627\u06cc-\u062a\u0635\u0648\u06cc\u0631\u06cc-\u0642\u0627\u0628\u0644-\u0627\u062c\u0631\u0627",
+              "title": "\u0641\u0631\u0645\u062a\u200c\u0647\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631\u06cc \u0642\u0627\u0628\u0644 \u0627\u062c\u0631\u0627",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67604,
+              "TypeID": 132,
+              "Ord": 1940,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0641\u0631\u0645\u062a\u200c\u0647\u0627\u06cc-\u0639\u06a9\u0633-\u0642\u0627\u0628\u0644-\u0627\u062c\u0631\u0627",
+              "title": "\u0641\u0631\u0645\u062a\u200c\u0647\u0627\u06cc \u0639\u06a9\u0633 \u0642\u0627\u0628\u0644 \u0627\u062c\u0631\u0627",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67605,
+              "TypeID": 132,
+              "Ord": 1960,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc-\u0632\u06cc\u0631\u0646\u0648\u06cc\u0633-\u0628\u0627-\u0641\u0631\u0645\u062a\u200c\u0647\u0627\u06cc",
+              "title": "\u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0632\u06cc\u0631\u0646\u0648\u06cc\u0633 \u0628\u0627 \u0641\u0631\u0645\u062a\u200c\u0647\u0627\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67606,
+              "TypeID": 131,
+              "Ord": 1980,
+              "multi": false,
+              "class": "css_131",
+              "Url": "FA/vo/\u0648\u0631\u0698\u0646-\u0628\u0644\u0648\u062a\u0648\u062b",
+              "title": "\u0648\u0631\u0698\u0646 \u0628\u0644\u0648\u062a\u0648\u062b",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67607,
+              "TypeID": 128,
+              "Ord": 2000,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/\u062f\u0627\u0645\u0646\u0647-\u0631\u0646\u06af",
+              "title": "\u062f\u0627\u0645\u0646\u0647 \u0631\u0646\u06af",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67608,
+              "TypeID": 132,
+              "Ord": 2020,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u06a9\u0627\u0631\u0628\u0631\u062f",
+              "title": "\u06a9\u0627\u0631\u0628\u0631\u062f",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67609,
+              "TypeID": 128,
+              "Ord": 2040,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/\u0627\u0646\u062d\u0646\u0627\u06cc-\u0642\u0648\u0633-\u0635\u0641\u062d\u0647-\u0646\u0645\u0627\u06cc\u0634",
+              "title": "\u0627\u0646\u062d\u0646\u0627\u06cc \u0642\u0648\u0633 \u0635\u0641\u062d\u0647 \u0646\u0645\u0627\u06cc\u0634",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67610,
+              "TypeID": 128,
+              "Ord": 2060,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0646\u0648\u0639-\u062a\u06a9\u0646\u0648\u0644\u0648\u0698\u06cc-\u0633\u0647-\u0628\u0639\u062f\u06cc",
+              "title": "\u0646\u0648\u0639 \u062a\u06a9\u0646\u0648\u0644\u0648\u0698\u06cc \u0633\u0647 \u0628\u0639\u062f\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67611,
+              "TypeID": 128,
+              "Ord": 2080,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/\u0648\u0644\u062a\u0627\u0698",
+              "title": "\u0648\u0644\u062a\u0627\u0698(v)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67612,
+              "TypeID": 128,
+              "Ord": 2100,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0641\u0631\u06a9\u0627\u0646\u0633",
+              "title": "\u0641\u0631\u06a9\u0627\u0646\u0633(Hz)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67613,
+              "TypeID": 128,
+              "Ord": 2120,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0641\u0631\u06a9\u0627\u0646\u0633-\u0627\u0641\u0642\u06cc",
+              "title": "\u0641\u0631\u06a9\u0627\u0646\u0633 \u0627\u0641\u0642\u06cc(Hz)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67614,
+              "TypeID": 128,
+              "Ord": 2140,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0641\u0631\u06a9\u0627\u0646\u0633-\u0639\u0645\u0648\u062f\u06cc",
+              "title": "\u0641\u0631\u06a9\u0627\u0646\u0633 \u0639\u0645\u0648\u062f\u06cc(Hz)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67615,
+              "TypeID": 131,
+              "Ord": 2160,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u062a\u0648\u0627\u0646-\u0645\u0635\u0631\u0641\u06cc",
+              "title": "\u062a\u0648\u0627\u0646 \u0645\u0635\u0631\u0641\u06cc(W)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67616,
+              "TypeID": 131,
+              "Ord": 2180,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u062c\u0631\u06cc\u0627\u0646",
+              "title": "\u062c\u0631\u06cc\u0627\u0646(A)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67617,
+              "TypeID": 131,
+              "Ord": 2200,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0627\u0646\u0631\u0698\u06cc-\u0627\u0644\u06a9\u062a\u0631\u06cc\u06a9\u06cc-\u0645\u0635\u0631\u0641\u06cc",
+              "title": "\u0627\u0646\u0631\u0698\u06cc \u0627\u0644\u06a9\u062a\u0631\u06cc\u06a9\u06cc \u0645\u0635\u0631\u0641\u06cc(kWh)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67618,
+              "TypeID": 131,
+              "Ord": 2240,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0632\u0645\u0627\u0646-\u0639\u0645\u0644\u06a9\u0631\u062f",
+              "title": "\u0632\u0645\u0627\u0646 \u0639\u0645\u0644\u06a9\u0631\u062f(ms)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67619,
+              "TypeID": 132,
+              "Ord": 2260,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0645\u0634\u062e\u0635\u0627\u062a-\u067e\u0631\u062f\u0627\u0632\u0646\u062f\u0647",
+              "title": "\u0645\u0634\u062e\u0635\u0627\u062a \u067e\u0631\u062f\u0627\u0632\u0646\u062f\u0647",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67620,
+              "TypeID": 131,
+              "Ord": 2280,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0633\u0631\u0639\u062a-\u067e\u0631\u062f\u0627\u0632\u0634\u06af\u0631",
+              "title": "\u0633\u0631\u0639\u062a \u067e\u0631\u062f\u0627\u0632\u0634\u06af\u0631(MHz)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67621,
+              "TypeID": 131,
+              "Ord": 2300,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0633\u0631\u0639\u062a-\u0631\u0641\u0631\u0634-\u062a\u0635\u0648\u06cc\u0631",
+              "title": "\u0633\u0631\u0639\u062a \u0631\u0641\u0631\u0634 \u062a\u0635\u0648\u06cc\u0631(Hz)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67622,
+              "TypeID": 128,
+              "Ord": 2320,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/\u06a9\u0646\u062a\u0631\u0627\u0633\u062a-\u062f\u0627\u06cc\u0646\u0627\u0645\u06cc\u06a9",
+              "title": "\u06a9\u0646\u062a\u0631\u0627\u0633\u062a \u062f\u0627\u06cc\u0646\u0627\u0645\u06cc\u06a9",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67623,
+              "TypeID": 128,
+              "Ord": 2340,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/\u06a9\u0646\u062a\u0631\u0627\u0633\u062a-\u0627\u0633\u062a\u0627\u062a\u06cc\u06a9",
+              "title": "\u06a9\u0646\u062a\u0631\u0627\u0633\u062a \u0627\u0633\u062a\u0627\u062a\u06cc\u06a9",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67624,
+              "TypeID": 128,
+              "Ord": 2360,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u062f\u0645\u0627\u06cc-\u0639\u0645\u0644\u06cc\u0627\u062a\u06cc",
+              "title": "\u062f\u0645\u0627\u06cc \u0639\u0645\u0644\u06cc\u0627\u062a\u06cc(\u00b0C)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67625,
+              "TypeID": 128,
+              "Ord": 2380,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0645\u062d\u062f\u0648\u062f\u0647-\u062f\u0645\u0627\u06cc-\u0646\u06af\u0647\u062f\u0627\u0631\u06cc",
+              "title": "\u0645\u062d\u062f\u0648\u062f\u0647 \u062f\u0645\u0627\u06cc \u0646\u06af\u0647\u062f\u0627\u0631\u06cc(\u00b0C)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67626,
+              "TypeID": 128,
+              "Ord": 2400,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0631\u0637\u0648\u0628\u062a-\u0646\u0633\u0628\u06cc-\u06a9\u0627\u0631\u06a9\u0631\u062f",
+              "title": "\u0631\u0637\u0648\u0628\u062a \u0646\u0633\u0628\u06cc \u06a9\u0627\u0631\u06a9\u0631\u062f (RH%)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67627,
+              "TypeID": 128,
+              "Ord": 2420,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0631\u0637\u0648\u0628\u062a-\u0646\u0633\u0628\u06cc-\u0646\u06af\u0647\u062f\u0627\u0631\u06cc",
+              "title": "\u0631\u0637\u0648\u0628\u062a \u0646\u0633\u0628\u06cc \u0646\u06af\u0647\u062f\u0627\u0631\u06cc (RH%)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67628,
+              "TypeID": 137,
+              "Ord": 2440,
+              "multi": false,
+              "class": "css_137",
+              "Url": "fa/vo/\u0646\u0648\u0639-\u0628\u0627\u062a\u0631\u06cc",
+              "title": "\u0646\u0648\u0639 \u0628\u0627\u062a\u0631\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    {
+                      "id": 135218,
+                      "value": "\u0642\u0644\u06cc\u0627\u06cc\u06cc"
+                    },
+                    {
+                      "id": 135219,
+                      "value": "\u0644\u06cc\u062a\u06cc\u0648\u0645\u06cc"
+                    },
+                    {
+                      "id": 135220,
+                      "value": "\u0644\u06cc\u062a\u06cc\u0645 \u0640 \u06cc\u0648\u0646"
+                    },
+                    {
+                      "id": 135221,
+                      "value": "\u067e\u0648\u0644\u06cc\u0645\u0631 \u0644\u06cc\u062a\u06cc\u0645 \u0640 \u06cc\u0648\u0646"
+                    },
+                    {
+                      "id": 135222,
+                      "value": "\u0646\u06cc\u06a9\u0644 \u0640 \u06a9\u0627\u062f\u0645\u06cc\u0645"
+                    },
+                    {
+                      "id": 135223,
+                      "value": "\u0647\u06cc\u0628\u0631\u06cc\u062f \u0646\u06cc\u06a9\u0644 \u0640 \u0641\u0644\u0632"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67629,
+              "TypeID": 130,
+              "Ord": 2460,
+              "multi": false,
+              "class": "css_130",
+              "Url": "FA/vo/\u062a\u0639\u062f\u0627\u062f-\u0628\u0627\u0637\u0631\u06cc",
+              "title": "\u062a\u0639\u062f\u0627\u062f \u0628\u0627\u0637\u0631\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_130_1",
+                  "validations": { "dataType": "int" }
+                }
+              ]
+            },
+            {
+              "prpId": 67630,
+              "TypeID": 137,
+              "Ord": 2480,
+              "multi": false,
+              "class": "css_137",
+              "Url": "FA/vo/\u0633\u0627\u06cc\u0632-\u0628\u0627\u062a\u0631\u06cc",
+              "title": "\u0633\u0627\u06cc\u0632 \u0628\u0627\u062a\u0631\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "select",
+                  "cssClass": "css_137_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135224, "value": "AA" },
+                    {
+                      "id": 135225,
+                      "value": "\u0646\u06cc\u0645 \u0642\u0644\u0645\u06cc"
+                    },
+                    { "id": 135226, "value": "AAAA" },
+                    { "id": 135227, "value": "C" },
+                    { "id": 135228, "value": "D" },
+                    { "id": 135229, "value": "N" },
+                    { "id": 135230, "value": "9 Volt" },
+                    { "id": 135231, "value": "A23" },
+                    { "id": 135232, "value": "6F22" },
+                    { "id": 135233, "value": "CR-V3" },
+                    { "id": 135234, "value": "CR2032" },
+                    { "id": 135235, "value": "LR44" },
+                    {
+                      "id": 135236,
+                      "value": "\u06a9\u062a\u0627\u0628\u06cc (\u062a\u0631\u0627\u0646\u0632\u06cc\u0633\u062a\u0648\u0631)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67631,
+              "TypeID": 131,
+              "Ord": 2500,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0648\u0644\u062a\u0627\u0698-\u0628\u0627\u062a\u0631\u06cc",
+              "title": "\u0648\u0644\u062a\u0627\u0698 \u0628\u0627\u062a\u0631\u06cc(v)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67632,
+              "TypeID": 131,
+              "Ord": 2520,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u062c\u0631\u06cc\u0627\u0646-\u0628\u0627\u062a\u0631\u06cc",
+              "title": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627\u062a\u0631\u06cc(mA)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67633,
+              "TypeID": 131,
+              "Ord": 2540,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u062a\u0648\u0627\u0646-\u0628\u0627\u062a\u0631\u06cc",
+              "title": "\u062a\u0648\u0627\u0646 \u0628\u0627\u062a\u0631\u06cc(W)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67634,
+              "TypeID": 131,
+              "Ord": 2560,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0645\u06cc\u0627\u0646\u06af\u06cc\u0646-\u0639\u0645\u0631-\u0628\u0627\u062a\u0631\u06cc",
+              "title": "\u0645\u06cc\u0627\u0646\u06af\u06cc\u0646 \u0639\u0645\u0631 \u0628\u0627\u062a\u0631\u06cc(\u0645\u0627\u0647)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67635,
+              "TypeID": 131,
+              "Ord": 2580,
+              "multi": false,
+              "class": "css_131",
+              "Url": "fa/vo/\u0638\u0631\u0641\u06cc\u062a-\u0628\u0627\u062a\u0631\u06cc",
+              "title": "\u0638\u0631\u0641\u06cc\u062a \u0628\u0627\u062a\u0631\u06cc(mAh)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67636,
+              "TypeID": 128,
+              "Ord": 2600,
+              "multi": false,
+              "class": "css_128",
+              "Url": "fa/vo/\u0634\u06a9\u0644-\u0638\u0627\u0647\u0631\u06cc-\u067e\u0627\u06cc\u0647",
+              "title": "\u0634\u06a9\u0644 \u0638\u0627\u0647\u0631\u06cc \u067e\u0627\u06cc\u0647",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67637,
+              "TypeID": 128,
+              "Ord": 2620,
+              "multi": false,
+              "class": "css_128",
+              "Url": "FA/vo/\u0645\u062d\u0644-\u0642\u0631\u0627\u0631\u06af\u06cc\u0631\u06cc-\u0628\u0644\u0646\u062f\u06af\u0648\u0647\u0627",
+              "title": "\u0645\u062d\u0644 \u0642\u0631\u0627\u0631\u06af\u06cc\u0631\u06cc \u0628\u0644\u0646\u062f\u06af\u0648\u0647\u0627",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_128_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67638,
+              "TypeID": 131,
+              "Ord": 2640,
+              "multi": false,
+              "class": "css_131",
+              "Url": "FA/vo/\u0637\u0648\u0644-\u06a9\u0627\u0628\u0644",
+              "title": "\u0637\u0648\u0644 \u06a9\u0627\u0628\u0644(cm)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67639,
+              "TypeID": 131,
+              "Ord": 2660,
+              "multi": false,
+              "class": "css_131",
+              "Url": "FA/vo/\u0636\u062e\u0627\u0645\u062a",
+              "title": "\u0636\u062e\u0627\u0645\u062a(mm)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_131_1",
+                  "validations": { "dataType": "float" }
+                }
+              ]
+            },
+            {
+              "prpId": 67640,
+              "TypeID": 146,
+              "Ord": 2680,
+              "multi": false,
+              "class": "css_146",
+              "Url": "fa/vo/\u0627\u0628\u0639\u0627\u062f",
+              "title": "\u0627\u0628\u0639\u0627\u062f(cm)",
+              "parts": [
+                { "part": 1, "viewType": "text", "cssClass": "css_146_1" }
+              ]
+            },
+            {
+              "prpId": 67641,
+              "TypeID": 145,
+              "Ord": 2700,
+              "multi": false,
+              "class": "css_145",
+              "Url": "FA/vo/\u0648\u0632\u0646",
+              "title": "\u0648\u0632\u0646(g)",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_145_1",
+                  "validations": {}
+                }
+              ]
+            },
+            {
+              "prpId": 67642,
+              "TypeID": 140,
+              "Ord": 2720,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u0648\u06cc\u0698\u06af\u06cc-\u0647\u0627",
+              "title": "\u0648\u06cc\u0698\u06af\u06cc \u0647\u0627",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    { "id": 135237, "value": "\u0646\u0634\u06a9\u0646" },
+                    { "id": 135238, "value": "\u0646\u0633\u0648\u0632" },
+                    {
+                      "id": 135239,
+                      "value": "\u0631\u0646\u06af \u062b\u0627\u0628\u062a"
+                    },
+                    {
+                      "id": 135240,
+                      "value": "\u0628\u0631\u0627\u0642(\u0622\u0631\u0627\u06cc\u0634\u06cc)"
+                    },
+                    { "id": 135241, "value": "\u0645\u0627\u062a" },
+                    {
+                      "id": 135242,
+                      "value": "\u0645\u0627\u0644\u062a\u06cc\u200c\u062a\u0627\u0686"
+                    },
+                    {
+                      "id": 135243,
+                      "value": "\u0642\u0627\u0628\u0644 \u062d\u0645\u0644"
+                    },
+                    {
+                      "id": 135244,
+                      "value": "\u0642\u0627\u0628\u0644\u064a\u062a \u0646\u0635\u0628 \u0633\u0631\u064a\u0639 \u0648 \u0622\u0633\u0627\u0646"
+                    },
+                    { "id": 135245, "value": "flexible" },
+                    {
+                      "id": 135246,
+                      "value": "\u0637\u0631\u0627\u062d\u06cc \u0627\u0631\u06af\u0648\u0646\u0648\u0645\u06cc\u06a9\u06cc"
+                    },
+                    {
+                      "id": 135247,
+                      "value": "\u0635\u0641\u062d\u0647 \u0646\u0645\u0627\u06cc\u0634 3 \u0628\u0639\u062f\u06cc"
+                    },
+                    {
+                      "id": 135248,
+                      "value": "\u062d\u0627\u0644\u062a \u0627\u062a\u0648\u0645\u0627\u062a\u06cc\u06a9 \u0630\u062e\u06cc\u0631\u0647 \u0627\u0646\u0631\u0698\u06cc"
+                    },
+                    {
+                      "id": 135249,
+                      "value": "\u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0627\u062a\u0644\u0627\u0641 \u0627\u0646\u0631\u0698\u06cc"
+                    },
+                    {
+                      "id": 135250,
+                      "value": "\u0635\u0641\u062d\u0647 \u0646\u0645\u0627\u06cc\u0634 \u0648\u0627\u06cc\u062f"
+                    },
+                    {
+                      "id": 135251,
+                      "value": "\u0636\u062f \u0627\u0646\u0639\u06a9\u0627\u0633 \u0646\u0648\u0631"
+                    },
+                    {
+                      "id": 135252,
+                      "value": "\u0641\u0646\u0627\u0648\u0631\u06cc \u0636\u062f \u067e\u0631\u0634"
+                    },
+                    {
+                      "id": 135253,
+                      "value": "\u0645\u0646\u0627\u0633\u0628 \u0628\u0631\u0627\u06cc \u0628\u0627\u0632\u06cc \u0647\u0627\u06cc \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc \u0647\u0645\u0632\u0645\u0627\u0646"
+                    },
+                    {
+                      "id": 135254,
+                      "value": "\u062a\u064a\u0648\u0646\u0631 \u062a\u0644\u0648\u064a\u0632\u064a\u0648\u0646"
+                    },
+                    {
+                      "id": 135255,
+                      "value": "\u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0627\u0632 \u0632\u06cc\u0631\u0646\u0648\u06cc\u0633"
+                    },
+                    {
+                      "id": 135256,
+                      "value": "\u0628\u062f\u0648\u0646 \u0641\u0631\u06cc\u0645"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67643,
+              "TypeID": 140,
+              "Ord": 2740,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u0627\u0645\u06a9\u0627\u0646\u0627\u062a",
+              "title": "\u0627\u0645\u06a9\u0627\u0646\u0627\u062a",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 135257,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0627\u0633\u06a9\u0631\u0648\u0644 \u0628\u0631\u0627\u06cc \u06a9\u0646\u062a\u0631\u0644 \u062d\u062c\u0645 \u0635\u062f\u0627"
+                    },
+                    {
+                      "id": 135258,
+                      "value": "\u0642\u0627\u0628\u0644 \u062a\u0646\u0638\u06cc\u0645"
+                    },
+                    {
+                      "id": 135259,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u06a9\u0644\u06cc\u062f \u0631\u0648\u0634\u0646 \u0648 \u062e\u0627\u0645\u0648\u0634"
+                    },
+                    {
+                      "id": 135260,
+                      "value": "\u0646\u0645\u0627\u06cc\u0634\u06af\u0631 \u0645\u06cc\u0632\u0627\u0646 \u0628\u0627\u062a\u0631\u06cc"
+                    },
+                    {
+                      "id": 135261,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0627\u0646\u0648\u0627\u0639 \u067e\u0648\u0631\u062a"
+                    },
+                    {
+                      "id": 135262,
+                      "value": "\u0641\u0646\u0627\u0648\u0631\u06cc \u062a\u0628\u062f\u06cc\u0644 2 \u0628\u0639\u062f\u06cc \u0628\u0647 3 \u0628\u0639\u062f\u06cc"
+                    },
+                    {
+                      "id": 135263,
+                      "value": "\u06a9\u0644\u06cc\u062f\u0647\u0627\u06cc \u0644\u0645\u0633\u06cc \u062f\u0627\u0631\u0627\u06cc \u0628\u0627\u0632\u062e\u0648\u0631\u062f \u062d\u0633\u06cc \u0644\u0631\u0632\u0634\u06cc"
+                    },
+                    {
+                      "id": 135264,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0631\u0645\u0632\u06af\u0630\u0627\u0631\u06cc"
+                    },
+                    {
+                      "id": 135265,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u062e\u0627\u0645\u0648\u0634 \u0648 \u0631\u0648\u0634\u0646 \u0634\u062f\u0646 \u062e\u0648\u062f\u06a9\u0627\u0631"
+                    },
+                    {
+                      "id": 135266,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0648\u0628 \u06a9\u0645"
+                    },
+                    {
+                      "id": 135267,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u062d\u0627\u0644\u062a \u0628\u0627\u0632\u06cc"
+                    },
+                    {
+                      "id": 135268,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u062a\u063a\u06cc\u06cc\u0631 \u0641\u0648\u0646\u062a \u0646\u0645\u0627\u06cc\u0634"
+                    },
+                    {
+                      "id": 135269,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0633\u0637\u062d \u0633\u0646\u062c \u067e\u064a\u0634\u0631\u0641\u062a\u0647 \u0635\u062f\u0627"
+                    },
+                    {
+                      "id": 135270,
+                      "value": "\u062f\u0627\u0631\u0627\u064a \u0648\u064a\u0648\u0641\u0648\u0631\u0645 \u0645\u0627\u0646\u064a\u062a\u0648\u0631\u064a\u0646\u06af \u0633\u064a\u06af\u0646\u0627\u0644 \u0648\u064a\u062f\u0626\u0648"
+                    },
+                    {
+                      "id": 135271,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0646\u0635\u0628 \u0628\u0627\u0632\u06cc"
+                    },
+                    {
+                      "id": 135272,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0646\u0635\u0628 \u0628\u0631\u0646\u0627\u0645\u0647"
+                    },
+                    {
+                      "id": 135273,
+                      "value": "\u062a\u0646\u0638\u06cc\u0645 \u0641\u0636\u0627\u06cc \u06a9\u0627\u0631 \u062f\u0631 \u0635\u0641\u062d\u0647 \u0646\u0645\u0627\u06cc\u0634 \u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u0627\u0648\u0633"
+                    },
+                    {
+                      "id": 135274,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0646\u0635\u0628 \u0631\u0648\u06cc \u062f\u06cc\u0648\u0627\u0631"
+                    },
+                    {
+                      "id": 135275,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0646\u0635\u0628 \u062f\u0627\u062e\u0644 \u062f\u06cc\u0648\u0627\u0631"
+                    },
+                    {
+                      "id": 135276,
+                      "value": "\u0627\u0645\u06a9\u0627\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u0632\u0627\u0648\u06cc\u0647 \u062f\u06cc\u062f \u0639\u0645\u0648\u062f\u06cc"
+                    },
+                    {
+                      "id": 135277,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u067e\u0627\u06cc\u062f\u0627\u0631\u0633\u0627\u0632\u06cc \u0631\u0646\u06af \u0645\u0634\u06a9\u06cc"
+                    },
+                    {
+                      "id": 135278,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0642\u0641\u0644 Kensington"
+                    },
+                    {
+                      "id": 135279,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0642\u0641\u0644 \u06a9\u0648\u062f\u06a9"
+                    },
+                    {
+                      "id": 135280,
+                      "value": "\u06a9\u06cc\u062a \u0646\u06af\u0647\u062f\u0627\u0631\u0646\u062f\u0647 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0645\u067e\u06cc\u0648\u062a\u0631 \u06a9\u0648\u0686\u06a9"
+                    },
+                    {
+                      "id": 135281,
+                      "value": "\u067e\u0634\u062a\u064a\u0628\u0627\u0646\u06cc \u062f\u0648 \u0648\u0631\u0648\u062f\u06cc \u0647\u0645\u0632\u0645\u0627\u0646 \u0633\u064a\u06af\u0646\u0627\u0644 \u0648\u064a\u062f\u0626\u0648"
+                    },
+                    {
+                      "id": 135282,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0633\u0647 \u0645\u062f \u062a\u0635\u0648\u06cc\u0631 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0628\u0631\u0627\u06cc \u0628\u0627\u0632\u06cc"
+                    },
+                    {
+                      "id": 135283,
+                      "value": "\u0633\u06cc\u0633\u062a\u0645 \u06a9\u0627\u0647\u0646\u062f\u0647 \u0646\u0648\u06cc\u0632 \u0635\u062f\u0627"
+                    },
+                    {
+                      "id": 135284,
+                      "value": "\u0642\u0627\u0628\u0644\u064a\u062a \u0686\u0631\u062e\u0634 360 \u062f\u0631\u062c\u0647"
+                    },
+                    {
+                      "id": 135285,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0686\u0631\u062e\u0634 \u06cc\u0647 \u0686\u067e \u0648 \u0631\u0627\u0633\u062a"
+                    },
+                    {
+                      "id": 135286,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0642\u0627\u0628\u0644\u06cc\u062a \u0646\u0631\u0645\u200c\u0627\u0641\u0632\u0627\u0631\u06cc \u0686\u0631\u062e\u0634 \u062e\u0648\u062f\u06a9\u0627\u0631"
+                    },
+                    {
+                      "id": 135287,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u062d\u0627\u0644\u062a \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0645\u0637\u0627\u0644\u0639\u0647"
+                    },
+                    {
+                      "id": 135288,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u06a9\u0627\u0647\u0634 \u0647\u0648\u0634\u0645\u0646\u062f \u062a\u0648\u0627\u0646 \u0645\u0635\u0631\u0641\u06cc"
+                    },
+                    {
+                      "id": 135289,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u062a\u063a\u06cc\u06cc\u0631 \u0648\u0636\u0639\u06cc\u062a \u0645\u0627\u0646\u06cc\u062a\u0648\u0631 \u0627\u0632 \u062d\u0627\u0644\u062a \u0627\u0641\u0642\u06cc \u0628\u0647 \u0639\u0645\u0648\u062f\u06cc \u0648 \u0628\u0631\u0639\u06a9\u0633"
+                    },
+                    {
+                      "id": 135290,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0642\u0627\u0628\u0644\u06cc\u062a \u062c\u0633\u062a\u200c\u0648\u062c\u0648 \u062e\u0648\u062f\u06a9\u0627\u0631 \u06a9\u0627\u0646\u0627\u0644"
+                    },
+                    {
+                      "id": 135291,
+                      "value": "\u0642\u0627\u0628\u0644\u064a\u062a \u0627\u0631\u062a\u0642\u0627\u0621 \u06a9\u064a\u0641\u064a\u062a \u062a\u0635\u0648\u064a\u0631"
+                    },
+                    {
+                      "id": 135292,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0636\u0628\u0637 \u0628\u0631\u0646\u0627\u0645\u0647"
+                    },
+                    {
+                      "id": 135293,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0636\u0628\u0637 \u0628\u0631\u0646\u0627\u0645\u0647 \u0632\u0646\u062f\u0647"
+                    },
+                    {
+                      "id": 135294,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u067e\u0631\u062f\u0627\u0632\u0634\u06af\u0631 \u062a\u0635\u0648\u06cc\u0631 Triple XD Engine"
+                    },
+                    {
+                      "id": 135295,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0643\u0644\u06cc\u062f\u0647\u0627\u06cc \u0644\u0645\u0633\u06cc"
+                    },
+                    {
+                      "id": 135296,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u062a\u0644\u0647 \u062a\u06a9\u0633\u062a"
+                    },
+                    {
+                      "id": 135297,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0642\u0627\u0628\u0644\u06cc\u062a \u0645\u0627\u0634\u06cc\u0646 \u0632\u0645\u0627\u0646"
+                    },
+                    {
+                      "id": 135298,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u067e\u0627\u06cc\u0647 \u062c\u062f\u0627 \u0634\u0648\u0646\u062f\u0647"
+                    },
+                    {
+                      "id": 135299,
+                      "value": "\u0627\u0641\u0632\u0627\u06cc\u0634 \u062e\u0648\u062f\u06a9\u0627\u0631 \u0646\u0633\u0628\u062a \u0627\u0628\u0639\u0627\u062f \u062a\u0635\u0648\u06cc\u0631"
+                    },
+                    {
+                      "id": 135300,
+                      "value": "\u062a\u0646\u0638\u06cc\u0645 \u062e\u0648\u062f\u06a9\u0627\u0631 \u0627\u0646\u062f\u0627\u0632\u0647 \u062a\u0635\u0648\u06cc\u0631"
+                    },
+                    {
+                      "id": 135301,
+                      "value": "\u0627\u0645\u06a9\u0627\u0646 \u0627\u062a\u0635\u0627\u0644 \u0628\u0647 wifi"
+                    },
+                    {
+                      "id": 135302,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u067e\u062e\u0634 USB"
+                    },
+                    {
+                      "id": 135303,
+                      "value": "\u0632\u0628\u0627\u0646 \u0648 \u0645\u0646\u0648\u06cc \u0641\u0627\u0631\u0633\u06cc"
+                    },
+                    {
+                      "id": 135304,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0627\u062a\u0635\u0627\u0644 \u0628\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644"
+                    },
+                    {
+                      "id": 135305,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0627\u062a\u0635\u0627\u0644 \u0628\u0647 \u06a9\u0627\u0645\u067e\u06cc\u0648\u062a\u0631(\u0648\u06cc\u0698\u06af\u06cc)"
+                    },
+                    {
+                      "id": 135306,
+                      "value": "\u0639\u0645\u0644\u06a9\u0631\u062f \u0633\u0627\u0632\u06af\u0627\u0631 \u0628\u0627 \u0628\u0631\u0627\u0648\u06cc\u0627"
+                    },
+                    {
+                      "id": 135307,
+                      "value": "\u0631\u062f\u06cc\u0627\u0628 \u062d\u0631\u06a9\u062a \u0686\u0634\u0645"
+                    },
+                    {
+                      "id": 135308,
+                      "value": "\u0627\u0633\u0644\u0627\u062a \u0628\u0631\u0627\u06cc \u0642\u0641\u0644 \u067e\u0627\u06cc\u0647 (\u0628\u0647 \u067e\u0646\u0644)"
+                    },
+                    {
+                      "id": 135309,
+                      "value": "\u0627\u0633\u0644\u0627\u062a \u0628\u0631\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a \u067e\u0648\u0631\u062a \u0647\u0627"
+                    },
+                    {
+                      "id": 135310,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0645\u0631\u0648\u0631\u06af\u0631 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a"
+                    },
+                    {
+                      "id": 135311,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0645\u0648\u062a\u0648\u0631 \u067e\u0631\u062f\u0627\u0632\u0634\u06af\u0631 \u0635\u062f\u0627"
+                    },
+                    {
+                      "id": 135312,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u067e\u0648\u0634\u0634 \u0636\u062f\u0628\u0627\u0632\u062a\u0627\u0628 \u0628\u0627 \u0631\u0648\u06a9\u0634 3H"
+                    },
+                    {
+                      "id": 135313,
+                      "value": "\u062d\u0633\u06af\u0631 \u0646\u0648\u0631 \u0645\u062d\u064a\u0637\u06cc"
+                    },
+                    {
+                      "id": 135314,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0646\u0645\u0627\u06cc\u0634 \u062a\u0635\u0648\u06cc\u0631 \u06a9\u0646\u0627\u0631 \u062a\u0635\u0648\u06cc\u0631"
+                    },
+                    {
+                      "id": 135315,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0646\u0645\u0627\u06cc\u0634 \u062a\u0635\u0648\u06cc\u0631 \u062f\u0631 \u062a\u0635\u0648\u06cc\u0631"
+                    },
+                    {
+                      "id": 135316,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a \u0646\u0645\u0627\u06cc\u0634 \u0686\u0646\u062f \u062a\u0635\u0648\u06cc\u0631"
+                    },
+                    {
+                      "id": 135317,
+                      "value": "\u0631\u0627\u0647\u0646\u0645\u0627\u06cc \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9\u06cc \u0628\u0631\u0646\u0627\u0645\u0647 \u0647\u0627 (EPG)"
+                    },
+                    {
+                      "id": 135318,
+                      "value": "\u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0627\u0632 \u0641\u0646\u0627\u0648\u0631\u06cc G-SYNC"
+                    },
+                    {
+                      "id": 135319,
+                      "value": "\u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0627\u0632 \u0641\u0646\u0627\u0648\u0631\u06cc Free Sync"
+                    },
+                    {
+                      "id": 135320,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u0641\u0646\u0627\u0648\u0631\u06cc Senseye 3"
+                    },
+                    {
+                      "id": 135321,
+                      "value": "\u0627\u0645\u0643\u0627\u0646 \u0627\u0646\u062a\u062e\u0627\u0628 \u0628\u0647\u062a\u0631\u06cc\u0646 \u062d\u0627\u0644\u062a \u0646\u0645\u0627\u06cc\u0634 \u062a\u0635\u0648\u06cc\u0631 \u0628\u0627 Super resolution"
+                    },
+                    {
+                      "id": 135322,
+                      "value": "\u062f\u0627\u0631\u0627\u06cc \u062a\u0646\u0638\u06cc\u0645\u0627\u062a Micro Dimming"
+                    },
+                    {
+                      "id": 135323,
+                      "value": "\u067e\u0634\u062a\u064a\u0628\u0627\u0646\u06cc \u0627\u0632 \u0642\u0627\u0628\u0644\u06cc\u062a HDCP"
+                    },
+                    {
+                      "id": 135324,
+                      "value": "\u067e\u0634\u062a\u064a\u0628\u0627\u0646\u06cc \u0627\u0632 \u0642\u0627\u0628\u0644\u064a\u062a GamePlus"
+                    },
+                    {
+                      "id": 135325,
+                      "value": "\u067e\u0634\u062a\u064a\u0628\u0627\u0646\u06cc \u0627\u0632 \u0642\u0627\u0628\u0644\u064a\u062a Low Blue Light"
+                    },
+                    {
+                      "id": 135326,
+                      "value": "\u067e\u0634\u062a\u064a\u0628\u0627\u0646\u06cc \u0627\u0632 \u0642\u0627\u0628\u0644\u064a\u062a QuickFit"
+                    },
+                    {
+                      "id": 135327,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a OSD"
+                    },
+                    {
+                      "id": 135328,
+                      "value": "\u0642\u0627\u0628\u0644\u06cc\u062a Simplink"
+                    },
+                    {
+                      "id": 135329,
+                      "value": "\u062a\u06a9\u0646\u0648\u0644\u0648\u0698\u06cc DCR"
+                    },
+                    {
+                      "id": 135330,
+                      "value": "\u0646\u0631\u0645\u200c\u0627\u0641\u0632\u0627\u0631 i-Menu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67644,
+              "TypeID": 140,
+              "Ord": 2760,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u0645\u0644\u0632\u0648\u0645\u0627\u062a",
+              "title": "\u0645\u0644\u0632\u0648\u0645\u0627\u062a",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    {
+                      "id": 135331,
+                      "value": "\u0639\u06cc\u0646\u06a9 \u0633\u0647 \u0628\u0639\u062f\u06cc"
+                    },
+                    {
+                      "id": 135332,
+                      "value": "\u06a9\u0627\u0628\u0644 \u0648\u06cc \u062c\u06cc \u0627\u06cc"
+                    },
+                    { "id": 135333, "value": "\u06a9\u0627\u0628\u0644 DVI" },
+                    { "id": 135334, "value": "\u06a9\u0627\u0628\u0644 HDMI" },
+                    {
+                      "id": 135335,
+                      "value": "\u06a9\u0627\u0628\u0644 mini DisplayPort"
+                    },
+                    {
+                      "id": 135336,
+                      "value": "\u06a9\u0627\u0628\u0644 DisplayPort"
+                    },
+                    {
+                      "id": 135337,
+                      "value": "\u06a9\u0627\u0628\u0644 \u062a\u0628\u062f\u06cc\u0644 DisplayPort \u0628\u0647 mini DisplayPort"
+                    },
+                    {
+                      "id": 135338,
+                      "value": "\u06a9\u0627\u0628\u0644 USB2.0"
+                    },
+                    {
+                      "id": 135339,
+                      "value": "\u06a9\u0627\u0628\u0644 USB3.0"
+                    },
+                    {
+                      "id": 135340,
+                      "value": "\u06a9\u0627\u0628\u0644 \u0635\u062f\u0627"
+                    },
+                    {
+                      "id": 135341,
+                      "value": "\u06a9\u0627\u0628\u0644 \u0628\u0631\u0642"
+                    },
+                    {
+                      "id": 135342,
+                      "value": "\u0622\u062f\u0627\u067e\u062a\u0648\u0631 (\u0628\u0631\u0642 \u0645\u0633\u062a\u0642\u06cc\u0645)"
+                    },
+                    {
+                      "id": 135343,
+                      "value": "\u067e\u0627\u064a\u0647 \u0645\u0627\u0646\u06cc\u062a\u0648\u0631"
+                    },
+                    { "id": 135344, "value": "\u0647\u062f\u0641\u0648\u0646" },
+                    {
+                      "id": 135345,
+                      "value": "\u0628\u0644\u0646\u062f\u06af\u0648"
+                    },
+                    { "id": 135346, "value": "\u0628\u0627\u062a\u0631\u06cc" },
+                    {
+                      "id": 135347,
+                      "value": "\u0646\u06af\u0647\u200c\u062f\u0627\u0631\u0646\u062f\u0647 \u06a9\u0627\u0628\u0644"
+                    },
+                    {
+                      "id": 135348,
+                      "value": "\u062c\u0645\u0639 \u06a9\u0646\u0646\u062f\u0647 \u06a9\u0627\u0628\u0644"
+                    },
+                    {
+                      "id": 135349,
+                      "value": "\u0642\u0644\u0627\u0628 \u0647\u062f\u0641\u0648\u0646"
+                    },
+                    {
+                      "id": 135350,
+                      "value": "\u06a9\u0646\u062a\u0631\u0644\u0631 OSD"
+                    },
+                    {
+                      "id": 135351,
+                      "value": "\u06a9\u0627\u0648\u0631 \u0645\u062d\u0627\u0641\u0638"
+                    },
+                    {
+                      "id": 135352,
+                      "value": "\u0627\u0628\u0632\u0627\u0631 \u0646\u0635\u0628"
+                    },
+                    {
+                      "id": 135353,
+                      "value": "\u0631\u06cc\u0645\u0648\u062a \u06a9\u0646\u062a\u0631\u0644"
+                    },
+                    {
+                      "id": 135354,
+                      "value": "\u0628\u0627\u062a\u0631\u06cc \u0631\u06cc\u0645\u0648\u062a \u06a9\u0646\u062a\u0631\u0644"
+                    },
+                    {
+                      "id": 135355,
+                      "value": "CD \u0622\u0645\u0648\u0632\u0634\u06cc"
+                    },
+                    {
+                      "id": 135356,
+                      "value": "CD \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u0627\u0648\u0644\u06cc\u0647"
+                    },
+                    {
+                      "id": 135357,
+                      "value": "\u062f\u0641\u062a\u0631\u0686\u0647 \u0631\u0627\u0647\u0646\u0645\u0627(\u0627\u0632\u0627\u0642\u0644\u0627\u0645 \u0647\u0645\u0631\u0627\u0647)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67645,
+              "TypeID": 132,
+              "Ord": 2780,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u06af\u0648\u0627\u0647\u06cc\u0646\u0627\u0645\u0647-\u0647\u0627",
+              "title": "\u06af\u0648\u0627\u0647\u06cc\u0646\u0627\u0645\u0647 \u0647\u0627",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67646,
+              "TypeID": 140,
+              "Ord": 2800,
+              "multi": false,
+              "class": "css_140",
+              "Url": "FA/vo/\u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc-\u0648-\u062e\u062f\u0645\u0627\u062a-\u067e\u0633-\u0627\u0632-\u0641\u0631\u0648\u0634",
+              "title": "\u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0648 \u062e\u062f\u0645\u0627\u062a \u067e\u0633 \u0627\u0632 \u0641\u0631\u0648\u0634",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "checklist",
+                  "cssClass": "css_140_1",
+                  "validations": {},
+                  "fixValues": [
+                    { "id": 135358, "value": "\u0646\u0635\u0628" },
+                    {
+                      "id": 135359,
+                      "value": "\u062a\u0627\u0645\u06cc\u0646 \u0648 \u062a\u0639\u0645\u06cc\u0631 \u0642\u0637\u0639\u0627\u062a"
+                    },
+                    {
+                      "id": 135360,
+                      "value": "\u062a\u0639\u0648\u06cc\u0636 \u0648 \u062a\u0639\u0645\u06cc\u0631 \u0645\u062d\u0635\u0648\u0644"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67647,
+              "TypeID": 251,
+              "Ord": 2820,
+              "multi": true,
+              "class": "css_251",
+              "Url": "FA/vo/\u0645\u062f\u062a-\u0632\u0645\u0627\u0646-\u062a\u0639\u0648\u06cc\u0636-\u0648-\u062a\u0639\u0645\u06cc\u0631-\u0631\u0627\u06cc\u06af\u0627\u0646",
+              "title": "\u0645\u062f\u062a \u0632\u0645\u0627\u0646 \u062a\u0639\u0648\u06cc\u0636 \u0648 \u062a\u0639\u0645\u06cc\u0631 \u0631\u0627\u06cc\u06af\u0627\u0646",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_251_1",
+                  "validations": { "maxLength": "4000" },
+                  "caption": "\u0632\u0645\u0627\u0646"
+                },
+                {
+                  "part": 2,
+                  "viewType": "select",
+                  "cssClass": "css_251_2",
+                  "validations": { "dataType": "text" },
+                  "caption": "\u0648\u0627\u062d\u062f \u0632\u0645\u0627\u0646",
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135361, "value": "\u0633\u0627\u0644" },
+                    { "id": 135362, "value": "\u0645\u0627\u0647" },
+                    { "id": 135363, "value": "\u0647\u0641\u062a\u0647" },
+                    { "id": 135364, "value": "\u0631\u0648\u0632" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67648,
+              "TypeID": 251,
+              "Ord": 2840,
+              "multi": true,
+              "class": "css_251",
+              "Url": "FA/vo/\u0645\u062f\u062a-\u0632\u0645\u0627\u0646-\u062a\u0627\u0645\u06cc\u0646-\u0642\u0637\u0639\u0627\u062a-\u0648-\u062a\u0639\u0645\u06cc\u0631",
+              "title": "\u0645\u062f\u062a \u0632\u0645\u0627\u0646 \u062a\u0627\u0645\u06cc\u0646 \u0642\u0637\u0639\u0627\u062a \u0648 \u062a\u0639\u0645\u06cc\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_251_1",
+                  "validations": { "maxLength": "4000" },
+                  "caption": "\u0632\u0645\u0627\u0646"
+                },
+                {
+                  "part": 2,
+                  "viewType": "select",
+                  "cssClass": "css_251_2",
+                  "validations": { "dataType": "text" },
+                  "caption": "\u0648\u0627\u062d\u062f \u0632\u0645\u0627\u0646",
+                  "fixValues": [
+                    {
+                      "id": 0,
+                      "value": "\u06cc\u06a9 \u0645\u0648\u0631\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0646\u0645\u0627\u06cc\u06cc\u062f"
+                    },
+                    { "id": 135365, "value": "\u0633\u0627\u0644" },
+                    { "id": 135366, "value": "\u0645\u0627\u0647" },
+                    { "id": 135367, "value": "\u0647\u0641\u062a\u0647" },
+                    { "id": 135368, "value": "\u0631\u0648\u0632" }
+                  ]
+                }
+              ]
+            },
+            {
+              "prpId": 67649,
+              "TypeID": 132,
+              "Ord": 2860,
+              "multi": true,
+              "class": "css_132",
+              "Url": "FA/vo/\u0634\u0631\u0627\u06cc\u0637-\u06af\u0627\u0631\u0627\u0646\u062a\u06cc",
+              "title": "\u0634\u0631\u0627\u06cc\u0637 \u06af\u0627\u0631\u0627\u0646\u062a\u06cc",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "text",
+                  "cssClass": "css_132_1",
+                  "validations": { "minLength": "2", "maxLength": "4000" }
+                }
+              ]
+            },
+            {
+              "prpId": 67650,
+              "TypeID": 144,
+              "Ord": 2880,
+              "multi": true,
+              "class": "css_144",
+              "Url": "FA/vo/\u062a\u0648\u0636\u06cc\u062d\u0627\u062a",
+              "title": "\u062a\u0648\u0636\u06cc\u062d\u0627\u062a",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "textarea",
+                  "cssClass": "css_144_1",
+                  "validations": {}
+                }
+              ]
+            },
+            {
+              "prpId": 10002178,
+              "multi": false,
+              "Ord": 760,
+              "title": "\u06a9\u0634\u0648\u0631",
+              "vocab": "\u06a9\u0634\u0648\u0631",
+              "parts": [
+                {
+                  "part": 1,
+                  "viewType": "reference",
+                  "link": "https://data.basiscore.net/fa/bc/\u06a9\u0634\u0648\u0631/q/fix?typeid=150&term=${term}&token=${token}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

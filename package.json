@@ -1,0 +1,23 @@
+{
+  "name": "wpconvert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/wpToSchema.ts",
+    "build": "tsc",
+    "dev": "nodemon --exec ts-node src/wpToSchema.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jsonstream": "^0.8.31",
+    "@types/node": "^20.6.0",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "axios": "^1.1.3",
+    "csv-parser": "^3.0.0"
+  }
+}

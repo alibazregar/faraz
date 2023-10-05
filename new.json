@@ -1,0 +1,68 @@
+{
+  "data": {
+    "lid": 1,
+    "paramUrl": "/6F342F87-E305-4F96-AB66-3D490C09D5C1/fa/چاپخانه",
+    "schemaId": "6F342F87-E305-4F96-AB66-3D490C09D5C1",
+    "schemaVersion": "1.0.0",
+    "usedForId": -1,
+    "properties": [
+      {
+        "propId": 23142,
+        "multi": false,
+        "added": [
+          {
+            "parts": [
+              {
+                "part": 1,
+                "values": [
+                  {
+                    "value": "testtttt"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "propId": 23144,
+        "multi": true,
+        "added": [
+          {
+            "parts": [
+              {
+                "part": 1,
+                "values": [
+                  {
+                    "value": "123456"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "propId": 23151,
+        "multi": false,
+        "added": [
+          {
+            "parts": [
+              {
+                "part": 1,
+                "values": [
+                  {
+                    "value": 45007
+                  },
+                  {
+                    "value": 45010
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
