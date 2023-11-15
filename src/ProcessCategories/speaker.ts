@@ -113,27 +113,27 @@ export default class Speaker extends Category {
           },
         ],
       },
-      {
-        propId: 34096,
-        //wordid: 63135,
-        multi: false,
-        added: [
-          {
-            //id: 0,
-            parts: [
-              {
-                part: 1,
-                values: [
-                  {
-                    //id: 0,
-                    value: extraAttributes["نوع اتصال"],
-                  },
-                ],
-              },
-            ],
-          },
-        ],
-      },
+      // {
+      //   propId: 34096,
+      //   //wordid: 63135,
+      //   multi: false,
+      //   added: [
+      //     {
+      //       //id: 0,
+      //       parts: [
+      //         {
+      //           part: 1,
+      //           values: [
+      //             {
+      //               //id: 0,
+      //               value: extraAttributes["نوع اتصال"],
+      //             },
+      //           ],
+      //         },
+      //       ],
+      //     },
+      //   ],
+      // },
       {
         propId: 34097,
         //wordid: 61173,
@@ -232,9 +232,8 @@ export default class Speaker extends Category {
                 values: [
                   {
                     //id: 0,
-                    value: this.removeAllPartsExceptNumber(
+                    value:
                       extraAttributes.امپدانس
-                    ),
                   },
                 ],
               },
@@ -321,27 +320,6 @@ export default class Speaker extends Category {
                   {
                     //id: 0,
                     value: extraAttributes["حداکثر برد بلندگو"],
-                  },
-                ],
-              },
-            ],
-          },
-        ],
-      },
-      {
-        propId: 34127,
-        //wordid: 63141,
-        multi: false,
-        added: [
-          {
-            //id: 0,
-            parts: [
-              {
-                part: 1,
-                values: [
-                  {
-                    //id: 0,
-                    value: extraAttributes["منبع تغذیه"],
                   },
                 ],
               },

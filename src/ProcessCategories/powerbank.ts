@@ -342,7 +342,7 @@ export default class PowerBank extends Category {
     const result: BaseSchema = {
       data: {
         schemaId: "201788D5-E5E2-4D96-99BD-23CB65B788EE",
-        paramUrl: "/201788D5-E5E2-4D96-99BD-23CB65B788EE/fa/پاور بانک",
+        paramUrl: "/201788D5-E5E2-4D96-99BD-23CB65B788EE/fa/پاور-بانک",
         lid: 1,
         schemaVersion: "1.0.0",
         usedForId: -1,

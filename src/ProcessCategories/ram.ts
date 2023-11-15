@@ -262,7 +262,7 @@ export default class Ram extends Category {
     const result: BaseSchema = {
       data: {
         schemaId: "9380B001-B03F-46AA-8309-3AFBDCE25BFB",
-        paramUrl: "/9380B001-B03F-46AA-8309-3AFBDCE25BFB/fa/کارت حافظه رم",
+        paramUrl: "/9380B001-B03F-46AA-8309-3AFBDCE25BFB/fa/کارت-حافظه-رم",
         lid: 1,
         schemaVersion: "1.0.0",
         usedForId: -1,

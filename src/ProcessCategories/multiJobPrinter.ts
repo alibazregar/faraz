@@ -318,7 +318,7 @@ export default class MultiJobPrinter extends Category {
     const result: BaseSchema = {
       data: {
         schemaId: "C88B75EB-F3FA-4C09-8BA6-4BA75AE24CBF",
-        paramUrl: "/C88B75EB-F3FA-4C09-8BA6-4BA75AE24CBF/fa/دستگاه چند کاره",
+        paramUrl: "/C88B75EB-F3FA-4C09-8BA6-4BA75AE24CBF/fa/دستگاه-چند کاره",
         lid: 1,
         schemaVersion: "1.0.0",
         usedForId: -1,

@@ -25,7 +25,7 @@ export default class laptop extends Category {
     //@ts-ignore
     const properties: Property[] = [
       {
-        propId: 3086787,
+        propId: 99248,
         //wordid: 63228,
         multi: false,
         added: [
@@ -46,7 +46,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086789,
+        propId: 99250,
         //wordid: 94112,
         multi: false,
         added: [
@@ -94,7 +94,7 @@ export default class laptop extends Category {
       //   ],
       // },
       {
-        propId: 3086792,
+        propId: 99254,
         //wordid: 56152,
         multi: false,
         added: [
@@ -115,7 +115,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086793,
+        propId: 99253,
         //wordid: 63135,
         multi: false,
         added: [
@@ -136,7 +136,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086795,
+        propId: 99255,
         //wordid: 61173,
         multi: false,
         added: [
@@ -157,7 +157,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086797,
+        propId: 99257,
         //wordid: 63136,
         multi: false,
         added: [
@@ -178,30 +178,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086798,
-        //wordid: 63137,
-        multi: false,
-        added: [
-          {
-            //id: 0,
-            parts: [
-              {
-                part: 1,
-                values: [
-                  {
-                    //id: 0,
-                    value: this.removeAllPartsExceptNumber(
-                      extraAttributes.رم ?? extraAttributes["حافظه رم"]
-                    ),
-                  },
-                ],
-              },
-            ],
-          },
-        ],
-      },
-      {
-        propId: 3086800,
+        propId: 99264,
         //wordid: 63140,
         multi: false,
         added: [
@@ -224,7 +201,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086803,
+        propId: 99269,
         //wordid: 63141,
         multi: false,
         added: [
@@ -247,7 +224,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086804,
+        propId: 99271,
         //wordid: 63141,
         multi: false,
         added: [
@@ -270,7 +247,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086805,
+        propId: 99273,
         //wordid: 63141,
         multi: false,
         added: [
@@ -293,7 +270,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086806,
+        propId: 99276,
         //wordid: 63141,
         multi: false,
         added: [
@@ -314,7 +291,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086809,
+        propId: 99275,
         //wordid: 63141,
         multi: false,
         added: [
@@ -335,7 +312,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086817,
+        propId: 99294,
         //wordid: 63141,
         multi: false,
         added: [
@@ -356,7 +333,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 3086818,
+        propId: 99289,
         //wordid: 50578,
         multi: false,
         added: [
@@ -368,7 +345,7 @@ export default class laptop extends Category {
                 values: [
                   {
                     //id: 0,
-                    value: warranty.status ? 1150429 : 1150430,
+                    value: warranty?.avilableWarranty?.faraz ? warranty?.avilableWarranty?.faraz :"",
                   },
                 ],
               },
@@ -377,7 +354,7 @@ export default class laptop extends Category {
         ],
       },
       {
-        propId: 67640,
+        propId: 99290,
         //@ts-console.warn(this //wordid not valid for "ابعاد");
         //wordid: 50187,
         multi: false,
@@ -404,7 +381,7 @@ export default class laptop extends Category {
     const result: BaseSchema = {
       data: {
         schemaId: "B2275695-5016-4F20-8969-86060BD93BA3",
-        paramUrl: "/B2275695-5016-4F20-8969-86060BD93BA3/fa/لپ تاپ",
+        paramUrl: "/B2275695-5016-4F20-8969-86060BD93BA3/fa/لپ-تاپ",
         lid: 1,
         schemaVersion: "1.0.0",
         usedForId: -1,

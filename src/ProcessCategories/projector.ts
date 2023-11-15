@@ -93,28 +93,6 @@ export default class Projector extends Category {
         ],
       },
       {
-        propId: 21655,
-        //wordid: 63136,
-        multi: false,
-        added: [
-          {
-            //id: 0,
-            parts: [
-              {
-                part: 1,
-                values: [
-                  {
-                    //id: 0,
-
-                    value: extraAttributes["وضوح تصویر"],
-                  },
-                ],
-              },
-            ],
-          },
-        ],
-      },
-      {
         propId: 21656,
         //wordid: 63136,
         multi: false,
@@ -153,30 +131,9 @@ export default class Projector extends Category {
                     //id: 0,
 
                     value:
-                      extraAttributes["طول عمر لامپ"] ??
-                      extraAttributes["طول عمر لامپ نرمال"],
-                  },
-                ],
-              },
-            ],
-          },
-        ],
-      },
-      {
-        propId: 21663,
-        //wordid: 63136,
-        multi: false,
-        added: [
-          {
-            //id: 0,
-            parts: [
-              {
-                part: 1,
-                values: [
-                  {
-                    //id: 0,
-
-                    value: extraAttributes["نوع لنز"],
+                    this. removeAllPartsExceptNumber(                      extraAttributes["طول عمر لامپ"] ??
+                      extraAttributes["طول عمر لامپ نرمال"])
+,
                   },
                 ],
               },
@@ -276,7 +233,7 @@ export default class Projector extends Category {
     const result: BaseSchema = {
       data: {
         schemaId: "856BC2A7-D2C4-472A-88C1-92564812EEB6",
-        paramUrl: "/856BC2A7-D2C4-472A-88C1-92564812EEB6/fa/ویدئو پروژکتور",
+        paramUrl: "/856BC2A7-D2C4-472A-88C1-92564812EEB6/fa/ویدئو-پروژکتور",
         lid: 1,
         schemaVersion: "1.0.0",
         usedForId: -1,

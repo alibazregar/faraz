@@ -247,7 +247,7 @@ export default class Power extends Category {
     const result: BaseSchema = {
       data: {
         schemaId: "F2EE8BE6-3A68-4BCB-AFF0-5324646E51C1",
-        paramUrl: "/F2EE8BE6-3A68-4BCB-AFF0-5324646E51C1/fa/منبع تغذیه",
+        paramUrl: "/F2EE8BE6-3A68-4BCB-AFF0-5324646E51C1/fa/منبع-تغذیه",
         lid: 1,
         schemaVersion: "1.0.0",
         usedForId: -1,

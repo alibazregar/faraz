@@ -188,7 +188,7 @@ export default class Headphone extends Category {
                 values: [
                   {
                     //id: 0,
-                    value: extraAttributes["قطر درایور"],
+                    value: this.removeAllPartsExceptNumber(extraAttributes["قطر درایور"]),
                   },
                 ],
               },

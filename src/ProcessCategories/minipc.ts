@@ -203,7 +203,7 @@ export default class MiniPC extends Category {
     const result: BaseSchema = {
       data: {
         schemaId: "A6891D76-5E06-48EF-B6C1-844454598449",
-        paramUrl: "/A6891D76-5E06-48EF-B6C1-844454598449/fa/مینی کامپیوتر",
+        paramUrl: "/A6891D76-5E06-48EF-B6C1-844454598449/fa/مینی-کامپیوتر",
         lid: 1,
         schemaVersion: "1.0.0",
         usedForId: -1,

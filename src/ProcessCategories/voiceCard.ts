@@ -230,7 +230,7 @@ export default class VoiceCard extends Category {
     const result: BaseSchema = {
       data: {
         schemaId: "12D7E3FE-784D-4F9C-BBF7-59851DBBCB3E",
-        paramUrl: "/12D7E3FE-784D-4F9C-BBF7-59851DBBCB3E/fa/کارت صدا",
+        paramUrl: "/12D7E3FE-784D-4F9C-BBF7-59851DBBCB3E/fa/کارت-صدا",
         lid: 1,
         schemaVersion: "1.0.0",
         usedForId: -1,

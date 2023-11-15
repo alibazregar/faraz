@@ -82,7 +82,8 @@ export default class Mouse extends Category {
                 values: [
                   {
                     //id: 0,
-                    value: extraAttributes["نوع اتصال"],
+                    value:
+                      extraAttributes["نوع اتصال"] == "باسیم" ? 174765 : 174766,
                   },
                 ],
               },

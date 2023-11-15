@@ -1,11 +1,18 @@
 const fs = require("fs")
-
-fs.readFile("sortByCategory.json","utf-8",async(error,data)=>{
+      function sort_by_id() {
+        return function (elem1, elem2) {
+          if (elem1.id < elem2.id) {
+            return -1;
+          } else if (elem1.id > elem2.id) {
+            return 1;
+          } else {
+            return 0;
+          }
+        };
+      }
+fs.readFile("successfulFiles.json","utf-8",async(error,data)=>{
   const jsonObj  =JSON.parse(data)
-  console.log(
-    jsonObj[
-      "لوازم جانبی , موبایل , کابل شارژ و آداپتور|لوازم جانبی|لوازم جانبی , موبایل"
-    ].length
-  );
-  console.log(jsonObj.length)
+  const sorted = JSON.stringify(jsonObj.sort(sort_by_id()))
+await fs.promises.writeFile("sorted.json",  sorted);
+
 })

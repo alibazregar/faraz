@@ -1,3 +1,5 @@
+import { BaseSchema } from "./BaseSchema";
+
 export type RawPost = {
   post_name: string;
   post_parent: string;
@@ -89,5 +91,7 @@ export type RawPost = {
 };
 export type RawPostWithResponse = {
   rawPost: RawPost;
-  response: object;
+  response?: number;
+  result : BaseSchema
+  err? : unknown
 };

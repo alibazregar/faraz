@@ -248,7 +248,7 @@ export default class ProcessorFan extends Category {
     const result: BaseSchema = {
       data: {
         schemaId: "5C3A1381-BD87-4750-AB9A-C3F962E1DE66",
-        paramUrl: "/5C3A1381-BD87-4750-AB9A-C3F962E1DE66/fa/فن پردازنده",
+        paramUrl: "/5C3A1381-BD87-4750-AB9A-C3F962E1DE66/fa/فن-پردازنده",
         lid: 1,
         schemaVersion: "1.0.0",
         usedForId: -1,

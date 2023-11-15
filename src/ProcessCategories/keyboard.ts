@@ -112,51 +112,51 @@ export default class Keyboard extends Category {
       //     },
       //   ],
       // },
-      {
-        propId: 67036,
-        //wordid: 56152,
-        multi: false,
-        added: [
-          {
-            //id: 0,
-            parts: [
-              {
-                part: 1,
-                values: [
-                  {
-                    //id: 0,
-                    value: this.removeAllPartsExceptNumber(
-                      extraAttributes["منبع تغذیه"]
-                    ),
-                  },
-                ],
-              },
-            ],
-          },
-        ],
-      },
-      {
-        propId: 67037,
-        //wordid: 63135,
-        multi: false,
-        added: [
-          {
-            //id: 0,
-            parts: [
-              {
-                part: 1,
-                values: [
-                  {
-                    //id: 0,
-                    value:
-                      extraAttributes["نوع اتصال"] ?? extraAttributes.اتصال,
-                  },
-                ],
-              },
-            ],
-          },
-        ],
-      },
+      // {
+      //   propId: 67036,
+      //   //wordid: 56152,
+      //   multi: false,
+      //   added: [
+      //     {
+      //       //id: 0,
+      //       parts: [
+      //         {
+      //           part: 1,
+      //           values: [
+      //             {
+      //               //id: 0,
+      //               value: this.removeAllPartsExceptNumber(
+      //                 extraAttributes["منبع تغذیه"]
+      //               ),
+      //             },
+      //           ],
+      //         },
+      //       ],
+      //     },
+      //   ],
+      // },
+      // {
+      //   propId: 67037,
+      //   //wordid: 63135,
+      //   multi: false,
+      //   added: [
+      //     {
+      //       //id: 0,
+      //       parts: [
+      //         {
+      //           part: 1,
+      //           values: [
+      //             {
+      //               //id: 0,
+      //               value:
+      //                 extraAttributes["نوع اتصال"] ?? extraAttributes.اتصال ,
+      //             },
+      //           ],
+      //         },
+      //       ],
+      //     },
+      //   ],
+      // },
       {
         propId: 67049,
         //wordid: 61173,
